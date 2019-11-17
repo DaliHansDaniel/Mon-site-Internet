@@ -1,0 +1,36 @@
+h1, h3
+{
+	color: blue;
+}
+p
+{
+	font-size: 1.5em;
+}
+p
+{
+	font-family: "Century Gothic"
+}
+p
+{
+	text-align: justify;
+}
+body
+{
+	background-color: yellow;
+}
+
+h1
+{
+	text-shadow: 6px 6px 6px black;
+}
+h1
+{
+	border-top: 10px black solid;
+}
+body
+{
+	border-bottom: 10px black solid;
+}
+
+
+
